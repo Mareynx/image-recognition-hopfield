@@ -1,0 +1,4 @@
+#define pattern4_width 8
+#define pattern4_height 8
+static unsigned char pattern4_bits[] = {
+   0x18, 0xb6, 0x3e, 0x42, 0x4a, 0x02, 0x68, 0x6a };

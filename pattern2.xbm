@@ -1,0 +1,4 @@
+#define pattern2_width 8
+#define pattern2_height 8
+static unsigned char pattern2_bits[] = {
+   0x18, 0x24, 0x3c, 0x42, 0x66, 0x24, 0x3c, 0x66 };
